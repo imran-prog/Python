@@ -9,7 +9,9 @@ async-timeout==3.0.1
 attrs==20.3.0
 autopep8==1.5.4
 backcall==0.2.0
+beautifulsoup4==4.9.3
 bleach==3.2.1
+bs4==0.0.1
 cached-property==1.5.2
 captcha==0.3
 certifi==2020.6.20
@@ -48,6 +50,7 @@ docplex==2.18.200
 docutils==0.16
 entrypoints==0.3
 eventlet==0.29.1
+fake-useragent==0.1.11
 fastdtw==0.3.4
 fastjsonschema==2.14.5
 filelock==3.0.12
@@ -144,6 +147,7 @@ Send2Trash==1.5.0
 sentry-sdk==0.19.2
 six==1.15.0
 social-auth-core==3.3.3
+soupsieve==2.0.1
 South==1.0.2
 sqlparse==0.4.1
 swapper==1.1.2.post1
